@@ -1,4 +1,4 @@
-﻿using HFT_26271_S10.ProjectManager.Presentation.Classes;
+﻿using HFT_26271_S10.ProjectManager.Models.Classes;
 using System;
 using System.Collections.Generic;
 using System.Linq;

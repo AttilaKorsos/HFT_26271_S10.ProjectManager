@@ -1,7 +1,11 @@
-﻿using HFT_26271_S10.ProjectManager.Presentation.Classes;
-using HFT_26271_S10.ProjectManager.Presentation.DataProviders;
+﻿using HFT_26271_S10.ProjectManager.Presentation.DataProviders;
 using HFT_26271_S10.ProjectManager.Presentation.DTOs;
-using HFT_26271_S10.ProjectManager.Presentation.Enums;
+using HFT_26271_S10.ProjectManager.Presentation.Services;
+using HFT_26271_S10.ProjectManager.Presentation.Extensions;
+using HFT_26271_S10.ProjectManager.Models.Classes;
+using HFT_26271_S10.ProjectManager.Models.Enums;
+using System.Reflection;
+using HFT_26271_S10.ProjectManager.Models.Attributes;
 
 namespace HFT_26271_T00.ProjectManager.Presentation
 {
@@ -10,12 +14,12 @@ namespace HFT_26271_T00.ProjectManager.Presentation
         static void Main(string[] args)
         {
             Console.WriteLine("============|1.3.|============");
-            ProjectTask task = new ProjectTask(1, 1, "Task 1", "Description 1", DateTime.Now, TaskPriority.High, TaskState.NotStarted);
-            ProjectTask task1 = new ProjectTask(2, 1, "Task 1", "Description 1", DateTime.Now, TaskPriority.High, TaskState.NotStarted);
-            ProjectTask task2 = new ProjectTask(3, 1, "Task 1", "Description 1", DateTime.Now, TaskPriority.High, TaskState.NotStarted);
-            List<ProjectTask> tasks = new List<ProjectTask> { task, task1, task2 };
-            task.StateChanged += Task_StateChanged;
-            task.State = TaskState.InProgress;
+            ProjectTask task1 = new ProjectTask(1, 1, "Task 1", "Description 1", DateTime.Now, TaskPriority.High, TaskState.NotStarted);
+            ProjectTask task2 = new ProjectTask(2, 1, "Task 1", "Description 1", DateTime.Now, TaskPriority.High, TaskState.NotStarted);
+            ProjectTask task3 = new ProjectTask(3, 1, "Task 1", "Description 1", DateTime.Now, TaskPriority.High, TaskState.NotStarted);
+            List<ProjectTask> tasks = new List<ProjectTask> { task1, task2, task3 };
+            task1.StateChanged += Task_StateChanged;
+            task1.State = TaskState.InProgress;
 
             Console.WriteLine("============|1.4.|============");
             ProjectTask T1 = new ProjectTask(1, 1, "Task 1", "Description 1", DateTime.Today, TaskPriority.High, TaskState.NotStarted);
@@ -52,13 +56,13 @@ namespace HFT_26271_T00.ProjectManager.Presentation
             handler.ProjectTasksLoaded += Handler_ProjectTasksLoaded;
 
             Console.WriteLine("\n==========|2.4.|==========\n");
-            string[] eventsLogFile = File.ReadAllLines(events);
+            /*string[] eventsLogFile = File.ReadAllLines(events);
             Console.WriteLine("Events log:");
             foreach (string line in eventsLogFile)
             {
                 Console.WriteLine(line);
             }
-
+            */
             Console.WriteLine("\n==========|3.3.|==========\n");
             ProjectTaskJsonDataProvider dataProvider = new();
             ProjectTaskService taskService = new(dataProvider);
@@ -194,6 +198,38 @@ namespace HFT_26271_T00.ProjectManager.Presentation
                     $"Active: {item.ActiveTaskCount}, " +
                     $"Overdue: {item.OverdueTaskCount}");
             }
+
+
+            ProjectTask T4 = new ProjectTask(4, 9, "Task 1", "Description 1", DateTime.Now, TaskPriority.High, TaskState.NotStarted);
+            Type type = typeof(ProjectTask);
+            Console.WriteLine();
+            Console.WriteLine($"Name of Type: {type.Name}");
+            Console.WriteLine($"Fullname of type: {type.FullName}");
+            Console.WriteLine($"Name of Assembly:{type.Assembly}");
+            Console.WriteLine();
+
+            PropertyInfo[] props = type.GetProperties();
+            foreach (PropertyInfo prop in props)
+            {
+                Console.Write($"{prop.Name} ({prop.PropertyType.Name}) - ");
+
+                DisplayLabelAttribute? attr = prop.GetCustomAttribute<DisplayLabelAttribute>();
+                if (attr != null)
+                {
+                    Console.WriteLine($"{attr.Label}");
+                }
+            }
+
+            foreach (PropertyInfo prop in props)
+            {
+                DisplayLabelAttribute? attr = prop.GetCustomAttribute<DisplayLabelAttribute>();
+                if (attr != null)
+                {
+                    Console.WriteLine($"{attr.Label}: {prop.GetValue(T4)}");
+                }
+            }
+
+            Console.ReadKey();
 
         }
         private static void Handler_ProjectTasksLoaded(List<ProjectTask> tasks)

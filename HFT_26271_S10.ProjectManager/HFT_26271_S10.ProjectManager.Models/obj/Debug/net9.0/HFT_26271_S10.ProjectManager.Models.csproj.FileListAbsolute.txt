@@ -1,0 +1,12 @@
+C:\Users\hallgato\source\repos\AttilaKorsos\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager.Models\bin\Debug\net9.0\HFT_26271_S10.ProjectManager.Models.deps.json
+C:\Users\hallgato\source\repos\AttilaKorsos\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager.Models\bin\Debug\net9.0\HFT_26271_S10.ProjectManager.Models.dll
+C:\Users\hallgato\source\repos\AttilaKorsos\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager.Models\bin\Debug\net9.0\HFT_26271_S10.ProjectManager.Models.pdb
+C:\Users\hallgato\source\repos\AttilaKorsos\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager.Models\obj\Debug\net9.0\HFT_26271_S10.ProjectManager.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hallgato\source\repos\AttilaKorsos\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager.Models\obj\Debug\net9.0\HFT_26271_S10.ProjectManager.Models.AssemblyInfoInputs.cache
+C:\Users\hallgato\source\repos\AttilaKorsos\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager.Models\obj\Debug\net9.0\HFT_26271_S10.ProjectManager.Models.AssemblyInfo.cs
+C:\Users\hallgato\source\repos\AttilaKorsos\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager.Models\obj\Debug\net9.0\HFT_26271_S10.ProjectManager.Models.csproj.CoreCompileInputs.cache
+C:\Users\hallgato\source\repos\AttilaKorsos\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager.Models\obj\Debug\net9.0\HFT_26271_S10.ProjectManager.Models.sourcelink.json
+C:\Users\hallgato\source\repos\AttilaKorsos\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager.Models\obj\Debug\net9.0\HFT_26271_S10.ProjectManager.Models.dll
+C:\Users\hallgato\source\repos\AttilaKorsos\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager.Models\obj\Debug\net9.0\refint\HFT_26271_S10.ProjectManager.Models.dll
+C:\Users\hallgato\source\repos\AttilaKorsos\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager.Models\obj\Debug\net9.0\HFT_26271_S10.ProjectManager.Models.pdb
+C:\Users\hallgato\source\repos\AttilaKorsos\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager.Models\obj\Debug\net9.0\ref\HFT_26271_S10.ProjectManager.Models.dll

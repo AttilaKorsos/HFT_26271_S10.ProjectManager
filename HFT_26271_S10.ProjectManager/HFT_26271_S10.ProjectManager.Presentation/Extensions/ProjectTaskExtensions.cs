@@ -1,5 +1,5 @@
-﻿using HFT_26271_S10.ProjectManager.Presentation.Classes;
-using HFT_26271_S10.ProjectManager.Presentation.Enums;
+﻿using HFT_26271_S10.ProjectManager.Models.Classes;
+using HFT_26271_S10.ProjectManager.Models.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
