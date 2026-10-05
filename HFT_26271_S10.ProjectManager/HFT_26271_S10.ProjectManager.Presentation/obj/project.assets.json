@@ -2,6 +2,33 @@
   "version": 3,
   "targets": {
     "net9.0": {
+      "HFT_26271_S10.ProjectManager.BusinessLogic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "HFT_26271_S10.ProjectManager.DataAccess": "1.0.0",
+          "HFT_26271_S10.ProjectManager.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/HFT_26271_S10.ProjectManager.BusinessLogic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HFT_26271_S10.ProjectManager.BusinessLogic.dll": {}
+        }
+      },
+      "HFT_26271_S10.ProjectManager.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "HFT_26271_S10.ProjectManager.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/HFT_26271_S10.ProjectManager.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HFT_26271_S10.ProjectManager.DataAccess.dll": {}
+        }
+      },
       "HFT_26271_S10.ProjectManager.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -15,6 +42,16 @@
     }
   },
   "libraries": {
+    "HFT_26271_S10.ProjectManager.BusinessLogic/1.0.0": {
+      "type": "project",
+      "path": "../HFT_26271_S10.ProjectManager.BusinessLogic/HFT_26271_S10.ProjectManager.BusinessLogic.csproj",
+      "msbuildProject": "../HFT_26271_S10.ProjectManager.BusinessLogic/HFT_26271_S10.ProjectManager.BusinessLogic.csproj"
+    },
+    "HFT_26271_S10.ProjectManager.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../HFT_26271_S10.ProjectManager.DataAccess/HFT_26271_S10.ProjectManager.DataAccess.csproj",
+      "msbuildProject": "../HFT_26271_S10.ProjectManager.DataAccess/HFT_26271_S10.ProjectManager.DataAccess.csproj"
+    },
     "HFT_26271_S10.ProjectManager.Models/1.0.0": {
       "type": "project",
       "path": "../HFT_26271_S10.ProjectManager.Models/HFT_26271_S10.ProjectManager.Models.csproj",
@@ -23,6 +60,8 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "HFT_26271_S10.ProjectManager.BusinessLogic >= 1.0.0",
+      "HFT_26271_S10.ProjectManager.DataAccess >= 1.0.0",
       "HFT_26271_S10.ProjectManager.Models >= 1.0.0"
     ]
   },
@@ -59,6 +98,12 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
+            "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.BusinessLogic\\HFT_26271_S10.ProjectManager.BusinessLogic.csproj": {
+              "projectPath": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.BusinessLogic\\HFT_26271_S10.ProjectManager.BusinessLogic.csproj"
+            },
+            "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj"
+            },
             "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj": {
               "projectPath": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj"
             }

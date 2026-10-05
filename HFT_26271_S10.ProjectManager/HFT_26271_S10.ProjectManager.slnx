@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="HFT_26271_S10.ProjectManager.BusinessLogic/HFT_26271_S10.ProjectManager.BusinessLogic.csproj" Id="72369401-0e3b-4d0e-9083-83eca0717d94" />
+  <Project Path="HFT_26271_S10.ProjectManager.DataAccess/HFT_26271_S10.ProjectManager.DataAccess.csproj" Id="5228cd85-fab4-4539-88ea-fd81a8ed2119" />
   <Project Path="HFT_26271_S10.ProjectManager.Models/HFT_26271_S10.ProjectManager.Models.csproj" Id="1396e88e-992b-44dd-ae56-53bfed07ef12" />
   <Project Path="HFT_26271_S10.ProjectManager.Presentation/HFT_26271_S10.ProjectManager.Presentation.csproj" />
 </Solution>

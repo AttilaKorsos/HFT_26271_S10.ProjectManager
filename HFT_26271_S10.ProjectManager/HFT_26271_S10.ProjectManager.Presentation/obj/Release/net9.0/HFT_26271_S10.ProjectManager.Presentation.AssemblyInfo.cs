@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HFT_26271_S10.ProjectManager.Presentation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f31d9429768691ab62fb9ddeaf153dcb3f1022c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a39c2a7b7d7b7cb1d014a2638c53c9f7f2107e57")]
 [assembly: System.Reflection.AssemblyProductAttribute("HFT_26271_S10.ProjectManager.Presentation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HFT_26271_S10.ProjectManager.Presentation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

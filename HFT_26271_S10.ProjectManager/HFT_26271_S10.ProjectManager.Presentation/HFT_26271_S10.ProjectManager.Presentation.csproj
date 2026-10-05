@@ -8,6 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\HFT_26271_S10.ProjectManager.BusinessLogic\HFT_26271_S10.ProjectManager.BusinessLogic.csproj" />
+    <ProjectReference Include="..\HFT_26271_S10.ProjectManager.DataAccess\HFT_26271_S10.ProjectManager.DataAccess.csproj" />
     <ProjectReference Include="..\HFT_26271_S10.ProjectManager.Models\HFT_26271_S10.ProjectManager.Models.csproj" />
   </ItemGroup>
 

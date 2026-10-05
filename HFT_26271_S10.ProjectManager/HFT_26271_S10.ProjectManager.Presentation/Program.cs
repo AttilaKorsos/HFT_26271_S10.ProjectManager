@@ -1,7 +1,7 @@
-﻿using HFT_26271_S10.ProjectManager.Presentation.DataProviders;
-using HFT_26271_S10.ProjectManager.Presentation.DTOs;
-using HFT_26271_S10.ProjectManager.Presentation.Services;
-using HFT_26271_S10.ProjectManager.Presentation.Extensions;
+﻿using HFT_26271_S10.ProjectManager.DataAccess.DataProviders;
+using HFT_26271_S10.ProjectManager.Models.DTOs;
+using HFT_26271_S10.ProjectManager.BusinessLogic.Services;
+using HFT_26271_S10.ProjectManager.Models.Extensions;
 using HFT_26271_S10.ProjectManager.Models.Classes;
 using HFT_26271_S10.ProjectManager.Models.Enums;
 using System.Reflection;

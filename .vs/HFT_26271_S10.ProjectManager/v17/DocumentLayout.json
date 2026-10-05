@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Presentation\\HFT_26271_S10.ProjectManager.Presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Presentation\\HFT_26271_S10.ProjectManager.Presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Presentation\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Presentation\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HFT_26271_S10.ProjectManager.Presentation.csproj",
+              "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Presentation\\HFT_26271_S10.ProjectManager.Presentation.csproj",
+              "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Presentation\\HFT_26271_S10.ProjectManager.Presentation.csproj",
+              "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Presentation\\HFT_26271_S10.ProjectManager.Presentation.csproj",
+              "RelativeToolTip": "HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Presentation\\HFT_26271_S10.ProjectManager.Presentation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-05T10:40:50.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Presentation\\Program.cs",
               "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Presentation\\Program.cs",
@@ -28,6 +45,14 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-28T11:19:50.11Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
