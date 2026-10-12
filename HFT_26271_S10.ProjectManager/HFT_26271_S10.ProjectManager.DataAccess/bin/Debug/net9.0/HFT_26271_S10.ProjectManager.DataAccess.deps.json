@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "HFT_26271_S10.ProjectManager.DataAccess/1.0.0": {
+        "dependencies": {
+          "HFT_26271_S10.ProjectManager.Models": "1.0.0"
+        },
+        "runtime": {
+          "HFT_26271_S10.ProjectManager.DataAccess.dll": {}
+        }
+      },
+      "HFT_26271_S10.ProjectManager.Models/1.0.0": {
+        "runtime": {
+          "HFT_26271_S10.ProjectManager.Models.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HFT_26271_S10.ProjectManager.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HFT_26271_S10.ProjectManager.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

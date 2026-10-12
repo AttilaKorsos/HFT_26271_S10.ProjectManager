@@ -1,21 +1,23 @@
-﻿using System;
+﻿using HFT_26271_S10.ProjectManager.BusinessLogic.Interfaces;
+using HFT_26271_S10.ProjectManager.DataAccess.DataProviders;
+using HFT_26271_S10.ProjectManager.DataAccess.Interfaces;
+using HFT_26271_S10.ProjectManager.Models.Classes;
+using HFT_26271_S10.ProjectManager.Models.DTOs;
+using HFT_26271_S10.ProjectManager.Models.Enums;
+using HFT_26271_S10.ProjectManager.Models.Extensions;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using HFT_26271_S10.ProjectManager.Models.Classes;
-using HFT_26271_S10.ProjectManager.DataAccess.DataProviders;
-using HFT_26271_S10.ProjectManager.Models.DTOs;
-using HFT_26271_S10.ProjectManager.Models.Enums;
-using HFT_26271_S10.ProjectManager.Models.Extensions;
 
 namespace HFT_26271_S10.ProjectManager.BusinessLogic.Services
 {
-    internal class TeamMemberService
+    public class TeamMemberService : ITeamMemberService
     {
-        private readonly TeamMemberJsonDataProvider dataProvider;
+        private readonly ITeamMemberDataProvider dataProvider;
 
-        public TeamMemberService(TeamMemberJsonDataProvider dataProvider)
+        public TeamMemberService(ITeamMemberDataProvider dataProvider)
         {
             this.dataProvider = dataProvider;
         }

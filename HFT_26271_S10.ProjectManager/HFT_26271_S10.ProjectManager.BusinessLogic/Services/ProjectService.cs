@@ -1,4 +1,6 @@
-﻿using HFT_26271_S10.ProjectManager.DataAccess.DataProviders;
+﻿using HFT_26271_S10.ProjectManager.BusinessLogic.Interfaces;
+using HFT_26271_S10.ProjectManager.DataAccess.DataProviders;
+using HFT_26271_S10.ProjectManager.DataAccess.Interfaces;
 using HFT_26271_S10.ProjectManager.Models.Classes;
 using HFT_26271_S10.ProjectManager.Models.DTOs;
 using HFT_26271_S10.ProjectManager.Models.Extensions;
@@ -11,11 +13,11 @@ using System.Threading.Tasks;
 
 namespace HFT_26271_S10.ProjectManager.BusinessLogic.Services
 {
-    internal class ProjectService
+    internal class ProjectService : IProjectService
     {
-        private readonly ProjectJsonDataProvider dataProvider;
+        private readonly IProjectDataProvider dataProvider;
 
-        public ProjectService(ProjectJsonDataProvider dataProvider)
+        public ProjectService(IProjectDataProvider dataProvider)
         {
             this.dataProvider = dataProvider;
         }

@@ -1,4 +1,5 @@
-﻿using HFT_26271_S10.ProjectManager.Models.Classes;
+﻿using HFT_26271_S10.ProjectManager.DataAccess.Interfaces;
+using HFT_26271_S10.ProjectManager.Models.Classes;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +10,7 @@ using System.Xml.Linq;
 
 namespace HFT_26271_S10.ProjectManager.DataAccess.DataProviders
 {
-    public class ProjectTaskJsonDataProvider
+    public class ProjectTaskJsonDataProvider : IProjectTaskDataProvider
     {
         private static readonly string FilePath = Path.Combine("Data", "projecttasks.json");
         private readonly JsonSerializerOptions options = new JsonSerializerOptions

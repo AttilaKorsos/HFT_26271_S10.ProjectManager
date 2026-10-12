@@ -18,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -43,8 +47,7 @@
               "RelativeToolTip": "HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Presentation\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T11:19:50.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-28T11:19:50.11Z"
             },
             {
               "$type": "Bookmark",

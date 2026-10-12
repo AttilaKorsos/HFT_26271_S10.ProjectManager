@@ -8,13 +8,15 @@ using HFT_26271_S10.ProjectManager.DataAccess.DataProviders;
 using HFT_26271_S10.ProjectManager.Models.DTOs;
 using HFT_26271_S10.ProjectManager.Models.Enums;
 using HFT_26271_S10.ProjectManager.Models.Extensions;
+using HFT_26271_S10.ProjectManager.DataAccess.Interfaces;
+using HFT_26271_S10.ProjectManager.BusinessLogic.Interfaces;
 
 namespace HFT_26271_S10.ProjectManager.BusinessLogic.Services
 {
-    public class ProjectTaskService
+    public class ProjectTaskService : IProjectTaskService
     {
-        private readonly ProjectTaskJsonDataProvider dataProvider;
-        public ProjectTaskService(ProjectTaskJsonDataProvider dataProvider)
+        private readonly IProjectTaskDataProvider dataProvider;
+        public ProjectTaskService(IProjectTaskDataProvider dataProvider)
         {
             this.dataProvider = dataProvider;
         }

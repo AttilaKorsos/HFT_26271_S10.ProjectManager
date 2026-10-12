@@ -31,3 +31,7 @@ C:\Users\hallgato\source\repos\AttilaKorsos\HFT_26271_S10.ProjectManager\HFT_262
 C:\Users\hallgato\source\repos\AttilaKorsos\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager.Presentation\obj\Debug\net9.0\HFT_26271_S10.ProjectManager.Presentation.pdb
 C:\Users\hallgato\source\repos\AttilaKorsos\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager.Presentation\obj\Debug\net9.0\HFT_26271_S10.ProjectManager.Presentation.genruntimeconfig.cache
 C:\Users\hallgato\source\repos\AttilaKorsos\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager.Presentation\obj\Debug\net9.0\ref\HFT_26271_S10.ProjectManager.Presentation.dll
+C:\Users\hallgato\source\repos\AttilaKorsos\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager.Presentation\bin\Debug\net9.0\HFT_26271_S10.ProjectManager.BusinessLogic.dll
+C:\Users\hallgato\source\repos\AttilaKorsos\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager.Presentation\bin\Debug\net9.0\HFT_26271_S10.ProjectManager.DataAccess.dll
+C:\Users\hallgato\source\repos\AttilaKorsos\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager.Presentation\bin\Debug\net9.0\HFT_26271_S10.ProjectManager.BusinessLogic.pdb
+C:\Users\hallgato\source\repos\AttilaKorsos\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager\HFT_26271_S10.ProjectManager.Presentation\bin\Debug\net9.0\HFT_26271_S10.ProjectManager.DataAccess.pdb

@@ -6,6 +6,8 @@ using HFT_26271_S10.ProjectManager.Models.Classes;
 using HFT_26271_S10.ProjectManager.Models.Enums;
 using System.Reflection;
 using HFT_26271_S10.ProjectManager.Models.Attributes;
+using HFT_26271_S10.ProjectManager.DataAccess.Interfaces;
+using HFT_26271_S10.ProjectManager.BusinessLogic.Interfaces;
 
 namespace HFT_26271_T00.ProjectManager.Presentation
 {
@@ -228,6 +230,14 @@ namespace HFT_26271_T00.ProjectManager.Presentation
                     Console.WriteLine($"{attr.Label}: {prop.GetValue(T4)}");
                 }
             }
+
+            Console.WriteLine("Dependency Injection");
+            IProjectTaskDataProvider Dataprovider = new ProjectTaskJsonDataProvider();
+            IProjectTaskService projectTaskService = new ProjectTaskService(dataProvider);
+
+            var highOrCriticalTask2 = projectTaskService.GetHighOrCriticalPriorityTasks();
+            highOrCriticalTask2.ForEach(task => Console.WriteLine(task));
+
 
             Console.ReadKey();
 
