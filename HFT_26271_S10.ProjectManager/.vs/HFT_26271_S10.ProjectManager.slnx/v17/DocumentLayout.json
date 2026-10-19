@@ -7,56 +7,56 @@
       "RelativeMoniker": "D:0:0:{DC4726CE-C167-F915-04BE-FA6D7B577C0C}|HFT_26271_S10.ProjectManager.Presentation\\HFT_26271_S10.ProjectManager.Presentation.csproj|solutionrelative:hft_26271_s10.projectmanager.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5228CD85-FAB4-4539-88EA-FD81A8ED2119}|HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.dataaccess\\projecttaskmemorydataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5228CD85-FAB4-4539-88EA-FD81A8ED2119}|HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj|solutionrelative:hft_26271_s10.projectmanager.dataaccess\\projecttaskmemorydataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.models\\classes\\projecttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|solutionrelative:hft_26271_s10.projectmanager.models\\classes\\projecttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72369401-0E3B-4D0E-9083-83ECA0717D94}|HFT_26271_S10.ProjectManager.BusinessLogic\\HFT_26271_S10.ProjectManager.BusinessLogic.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.businesslogic\\interfaces\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72369401-0E3B-4D0E-9083-83ECA0717D94}|HFT_26271_S10.ProjectManager.BusinessLogic\\HFT_26271_S10.ProjectManager.BusinessLogic.csproj|solutionrelative:hft_26271_s10.projectmanager.businesslogic\\interfaces\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72369401-0E3B-4D0E-9083-83ECA0717D94}|HFT_26271_S10.ProjectManager.BusinessLogic\\HFT_26271_S10.ProjectManager.BusinessLogic.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.businesslogic\\interfaces\\iprojecttaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72369401-0E3B-4D0E-9083-83ECA0717D94}|HFT_26271_S10.ProjectManager.BusinessLogic\\HFT_26271_S10.ProjectManager.BusinessLogic.csproj|solutionrelative:hft_26271_s10.projectmanager.businesslogic\\interfaces\\iprojecttaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5228CD85-FAB4-4539-88EA-FD81A8ED2119}|HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.dataaccess\\dataproviders\\projecttaskjsondataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5228CD85-FAB4-4539-88EA-FD81A8ED2119}|HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj|solutionrelative:hft_26271_s10.projectmanager.dataaccess\\dataproviders\\projecttaskjsondataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5228CD85-FAB4-4539-88EA-FD81A8ED2119}|HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.dataaccess\\dataproviders\\teammemberjsondataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5228CD85-FAB4-4539-88EA-FD81A8ED2119}|HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj|solutionrelative:hft_26271_s10.projectmanager.dataaccess\\dataproviders\\teammemberjsondataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5228CD85-FAB4-4539-88EA-FD81A8ED2119}|HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.dataaccess\\interfaces\\iprojecttaskdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5228CD85-FAB4-4539-88EA-FD81A8ED2119}|HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj|solutionrelative:hft_26271_s10.projectmanager.dataaccess\\interfaces\\iprojecttaskdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5228CD85-FAB4-4539-88EA-FD81A8ED2119}|HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.dataaccess\\interfaces\\iteammemberdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5228CD85-FAB4-4539-88EA-FD81A8ED2119}|HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj|solutionrelative:hft_26271_s10.projectmanager.dataaccess\\interfaces\\iteammemberdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72369401-0E3B-4D0E-9083-83ECA0717D94}|HFT_26271_S10.ProjectManager.BusinessLogic\\HFT_26271_S10.ProjectManager.BusinessLogic.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.businesslogic\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72369401-0E3B-4D0E-9083-83ECA0717D94}|HFT_26271_S10.ProjectManager.BusinessLogic\\HFT_26271_S10.ProjectManager.BusinessLogic.csproj|solutionrelative:hft_26271_s10.projectmanager.businesslogic\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5228CD85-FAB4-4539-88EA-FD81A8ED2119}|HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.dataaccess\\dataproviders\\projectjsondataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5228CD85-FAB4-4539-88EA-FD81A8ED2119}|HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj|solutionrelative:hft_26271_s10.projectmanager.dataaccess\\dataproviders\\projectjsondataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.models\\classes\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|solutionrelative:hft_26271_s10.projectmanager.models\\classes\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5228CD85-FAB4-4539-88EA-FD81A8ED2119}|HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.dataaccess\\interfaces\\iprojectdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5228CD85-FAB4-4539-88EA-FD81A8ED2119}|HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj|solutionrelative:hft_26271_s10.projectmanager.dataaccess\\interfaces\\iprojectdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5228CD85-FAB4-4539-88EA-FD81A8ED2119}|HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5228CD85-FAB4-4539-88EA-FD81A8ED2119}|HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj|solutionrelative:hft_26271_s10.projectmanager.dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72369401-0E3B-4D0E-9083-83ECA0717D94}|HFT_26271_S10.ProjectManager.BusinessLogic\\HFT_26271_S10.ProjectManager.BusinessLogic.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.businesslogic\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72369401-0E3B-4D0E-9083-83ECA0717D94}|HFT_26271_S10.ProjectManager.BusinessLogic\\HFT_26271_S10.ProjectManager.BusinessLogic.csproj|solutionrelative:hft_26271_s10.projectmanager.businesslogic\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.models\\enums\\taskstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|solutionrelative:hft_26271_s10.projectmanager.models\\enums\\taskstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5228CD85-FAB4-4539-88EA-FD81A8ED2119}|HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.dataaccess\\exporters\\reflectionfileexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5228CD85-FAB4-4539-88EA-FD81A8ED2119}|HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj|solutionrelative:hft_26271_s10.projectmanager.dataaccess\\exporters\\reflectionfileexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5228CD85-FAB4-4539-88EA-FD81A8ED2119}|HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.dataaccess\\dataproviders\\projectjsondataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5228CD85-FAB4-4539-88EA-FD81A8ED2119}|HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj|solutionrelative:hft_26271_s10.projectmanager.dataaccess\\dataproviders\\projectjsondataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5228CD85-FAB4-4539-88EA-FD81A8ED2119}|HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.dataaccess\\dataproviders\\teammemberjsondataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5228CD85-FAB4-4539-88EA-FD81A8ED2119}|HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj|solutionrelative:hft_26271_s10.projectmanager.dataaccess\\dataproviders\\teammemberjsondataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5228CD85-FAB4-4539-88EA-FD81A8ED2119}|HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.dataaccess\\projecttaskmemorydataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5228CD85-FAB4-4539-88EA-FD81A8ED2119}|HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj|solutionrelative:hft_26271_s10.projectmanager.dataaccess\\projecttaskmemorydataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.models\\extensions\\projecttaskextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|solutionrelative:hft_26271_s10.projectmanager.models\\extensions\\projecttaskextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5228CD85-FAB4-4539-88EA-FD81A8ED2119}|HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.dataaccess\\dataproviders\\projecttaskjsondataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5228CD85-FAB4-4539-88EA-FD81A8ED2119}|HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj|solutionrelative:hft_26271_s10.projectmanager.dataaccess\\dataproviders\\projecttaskjsondataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5228CD85-FAB4-4539-88EA-FD81A8ED2119}|HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.dataaccess\\interfaces\\iprojecttaskdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5228CD85-FAB4-4539-88EA-FD81A8ED2119}|HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj|solutionrelative:hft_26271_s10.projectmanager.dataaccess\\interfaces\\iprojecttaskdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72369401-0E3B-4D0E-9083-83ECA0717D94}|HFT_26271_S10.ProjectManager.BusinessLogic\\HFT_26271_S10.ProjectManager.BusinessLogic.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.businesslogic\\services\\projecttaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72369401-0E3B-4D0E-9083-83ECA0717D94}|HFT_26271_S10.ProjectManager.BusinessLogic\\HFT_26271_S10.ProjectManager.BusinessLogic.csproj|solutionrelative:hft_26271_s10.projectmanager.businesslogic\\services\\projecttaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5228CD85-FAB4-4539-88EA-FD81A8ED2119}|HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.dataaccess\\hft_26271_s10.projectmanager.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5228CD85-FAB4-4539-88EA-FD81A8ED2119}|HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj|solutionrelative:hft_26271_s10.projectmanager.dataaccess\\hft_26271_s10.projectmanager.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72369401-0E3B-4D0E-9083-83ECA0717D94}|HFT_26271_S10.ProjectManager.BusinessLogic\\HFT_26271_S10.ProjectManager.BusinessLogic.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.businesslogic\\services\\teammemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,8 +67,44 @@
       "RelativeMoniker": "D:0:0:{72369401-0E3B-4D0E-9083-83ECA0717D94}|HFT_26271_S10.ProjectManager.BusinessLogic\\HFT_26271_S10.ProjectManager.BusinessLogic.csproj|solutionrelative:hft_26271_s10.projectmanager.businesslogic\\interfaces\\iteammemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.models\\extensions\\projecttaskextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|solutionrelative:hft_26271_s10.projectmanager.models\\extensions\\projecttaskextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72369401-0E3B-4D0E-9083-83ECA0717D94}|HFT_26271_S10.ProjectManager.BusinessLogic\\HFT_26271_S10.ProjectManager.BusinessLogic.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.businesslogic\\interfaces\\iprojecttaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72369401-0E3B-4D0E-9083-83ECA0717D94}|HFT_26271_S10.ProjectManager.BusinessLogic\\HFT_26271_S10.ProjectManager.BusinessLogic.csproj|solutionrelative:hft_26271_s10.projectmanager.businesslogic\\interfaces\\iprojecttaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72369401-0E3B-4D0E-9083-83ECA0717D94}|HFT_26271_S10.ProjectManager.BusinessLogic\\HFT_26271_S10.ProjectManager.BusinessLogic.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.businesslogic\\interfaces\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72369401-0E3B-4D0E-9083-83ECA0717D94}|HFT_26271_S10.ProjectManager.BusinessLogic\\HFT_26271_S10.ProjectManager.BusinessLogic.csproj|solutionrelative:hft_26271_s10.projectmanager.businesslogic\\interfaces\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.models\\attributes\\displaylabelattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|solutionrelative:hft_26271_s10.projectmanager.models\\attributes\\displaylabelattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.models\\classes\\projecttaskfilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|solutionrelative:hft_26271_s10.projectmanager.models\\classes\\projecttaskfilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.models\\classes\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|solutionrelative:hft_26271_s10.projectmanager.models\\classes\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.models\\classes\\taskstatechangedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|solutionrelative:hft_26271_s10.projectmanager.models\\classes\\taskstatechangedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.models\\classes\\taskduedatechangedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|solutionrelative:hft_26271_s10.projectmanager.models\\classes\\taskduedatechangedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5228CD85-FAB4-4539-88EA-FD81A8ED2119}|HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.dataaccess\\hft_26271_s10.projectmanager.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5228CD85-FAB4-4539-88EA-FD81A8ED2119}|HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj|solutionrelative:hft_26271_s10.projectmanager.dataaccess\\hft_26271_s10.projectmanager.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5228CD85-FAB4-4539-88EA-FD81A8ED2119}|HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.dataaccess\\interfaces\\iteammemberdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5228CD85-FAB4-4539-88EA-FD81A8ED2119}|HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj|solutionrelative:hft_26271_s10.projectmanager.dataaccess\\interfaces\\iteammemberdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5228CD85-FAB4-4539-88EA-FD81A8ED2119}|HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5228CD85-FAB4-4539-88EA-FD81A8ED2119}|HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj|solutionrelative:hft_26271_s10.projectmanager.dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.models\\dtos\\taskstatecountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,44 +127,12 @@
       "RelativeMoniker": "D:0:0:{72369401-0E3B-4D0E-9083-83ECA0717D94}|HFT_26271_S10.ProjectManager.BusinessLogic\\HFT_26271_S10.ProjectManager.BusinessLogic.csproj|solutionrelative:hft_26271_s10.projectmanager.businesslogic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.models\\attributes\\displaylabelattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|solutionrelative:hft_26271_s10.projectmanager.models\\attributes\\displaylabelattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.models\\classes\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|solutionrelative:hft_26271_s10.projectmanager.models\\classes\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.models\\classes\\projecttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|solutionrelative:hft_26271_s10.projectmanager.models\\classes\\projecttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.models\\classes\\projecttaskfilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|solutionrelative:hft_26271_s10.projectmanager.models\\classes\\projecttaskfilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.models\\classes\\taskduedatechangedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|solutionrelative:hft_26271_s10.projectmanager.models\\classes\\taskduedatechangedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.models\\classes\\taskstatechangedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|solutionrelative:hft_26271_s10.projectmanager.models\\classes\\taskstatechangedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.models\\classes\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|solutionrelative:hft_26271_s10.projectmanager.models\\classes\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.models\\enums\\projectstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|solutionrelative:hft_26271_s10.projectmanager.models\\enums\\projectstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.models\\enums\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|solutionrelative:hft_26271_s10.projectmanager.models\\enums\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.models\\enums\\taskstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|solutionrelative:hft_26271_s10.projectmanager.models\\enums\\taskstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1396E88E-992B-44DD-AE56-53BFED07EF12}|HFT_26271_S10.ProjectManager.Models\\HFT_26271_S10.ProjectManager.Models.csproj|c:\\users\\hallgato\\source\\repos\\attilakorsos\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager\\hft_26271_s10.projectmanager.models\\enums\\teammemberrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -154,17 +158,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "ProjectService.cs",
               "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.BusinessLogic\\Services\\ProjectService.cs",
               "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.BusinessLogic\\Services\\ProjectService.cs",
               "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.BusinessLogic\\Services\\ProjectService.cs",
               "RelativeToolTip": "HFT_26271_S10.ProjectManager.BusinessLogic\\Services\\ProjectService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBMAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-05T11:17:25.967Z",
               "IsPinned": true,
@@ -172,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 17,
               "Title": "IProjectService.cs",
               "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.BusinessLogic\\Interfaces\\IProjectService.cs",
               "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.BusinessLogic\\Interfaces\\IProjectService.cs",
@@ -189,56 +193,12 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProjectTaskMemoryDataProvider.cs",
-              "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.DataAccess\\ProjectTaskMemoryDataProvider.cs",
-              "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.DataAccess\\ProjectTaskMemoryDataProvider.cs",
-              "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.DataAccess\\ProjectTaskMemoryDataProvider.cs*",
-              "RelativeToolTip": "HFT_26271_S10.ProjectManager.DataAccess\\ProjectTaskMemoryDataProvider.cs*",
-              "ViewState": "AgIAAAQAAAAAAAAAAADwvwsAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T11:59:27.41Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProjectTaskJsonDataProvider.cs",
-              "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.DataAccess\\DataProviders\\ProjectTaskJsonDataProvider.cs",
-              "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.DataAccess\\DataProviders\\ProjectTaskJsonDataProvider.cs",
-              "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.DataAccess\\DataProviders\\ProjectTaskJsonDataProvider.cs",
-              "RelativeToolTip": "HFT_26271_S10.ProjectManager.DataAccess\\DataProviders\\ProjectTaskJsonDataProvider.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAmwGEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T11:24:03.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TeamMemberJsonDataProvider.cs",
-              "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.DataAccess\\DataProviders\\TeamMemberJsonDataProvider.cs",
-              "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.DataAccess\\DataProviders\\TeamMemberJsonDataProvider.cs",
-              "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.DataAccess\\DataProviders\\TeamMemberJsonDataProvider.cs",
-              "RelativeToolTip": "HFT_26271_S10.ProjectManager.DataAccess\\DataProviders\\TeamMemberJsonDataProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T11:24:06.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IProjectTaskDataProvider.cs",
-              "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.DataAccess\\Interfaces\\IProjectTaskDataProvider.cs",
-              "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.DataAccess\\Interfaces\\IProjectTaskDataProvider.cs",
-              "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.DataAccess\\Interfaces\\IProjectTaskDataProvider.cs",
-              "RelativeToolTip": "HFT_26271_S10.ProjectManager.DataAccess\\Interfaces\\IProjectTaskDataProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T11:15:09.403Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             },
             {
               "$type": "Document",
@@ -248,66 +208,53 @@
               "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.Presentation\\Program.cs",
               "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Presentation\\Program.cs*",
               "RelativeToolTip": "HFT_26271_S10.ProjectManager.Presentation\\Program.cs*",
-              "ViewState": "AgIAANMAAAAAAAAAAAAAAO8AAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAgwOUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-28T11:20:16.206Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IProjectTaskService.cs",
-              "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.BusinessLogic\\Interfaces\\IProjectTaskService.cs",
-              "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.BusinessLogic\\Interfaces\\IProjectTaskService.cs",
-              "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.BusinessLogic\\Interfaces\\IProjectTaskService.cs",
-              "RelativeToolTip": "HFT_26271_S10.ProjectManager.BusinessLogic\\Interfaces\\IProjectTaskService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T11:28:35.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ITeamMemberDataProvider.cs",
-              "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.DataAccess\\Interfaces\\ITeamMemberDataProvider.cs",
-              "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.DataAccess\\Interfaces\\ITeamMemberDataProvider.cs",
-              "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.DataAccess\\Interfaces\\ITeamMemberDataProvider.cs",
-              "RelativeToolTip": "HFT_26271_S10.ProjectManager.DataAccess\\Interfaces\\ITeamMemberDataProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T11:41:19.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "ProjectJsonDataProvider.cs",
               "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.DataAccess\\DataProviders\\ProjectJsonDataProvider.cs",
               "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.DataAccess\\DataProviders\\ProjectJsonDataProvider.cs",
               "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.DataAccess\\DataProviders\\ProjectJsonDataProvider.cs",
               "RelativeToolTip": "HFT_26271_S10.ProjectManager.DataAccess\\DataProviders\\ProjectJsonDataProvider.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-05T11:23:53.49Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.DataAccess\\Class1.cs",
-              "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.DataAccess\\Class1.cs",
-              "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.DataAccess\\Class1.cs",
-              "RelativeToolTip": "HFT_26271_S10.ProjectManager.DataAccess\\Class1.cs",
+              "DocumentIndex": 8,
+              "Title": "TeamMemberJsonDataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.DataAccess\\DataProviders\\TeamMemberJsonDataProvider.cs",
+              "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.DataAccess\\DataProviders\\TeamMemberJsonDataProvider.cs",
+              "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.DataAccess\\DataProviders\\TeamMemberJsonDataProvider.cs",
+              "RelativeToolTip": "HFT_26271_S10.ProjectManager.DataAccess\\DataProviders\\TeamMemberJsonDataProvider.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T11:08:57.348Z",
+              "WhenOpened": "2026-10-05T11:24:06.393Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
+              "Title": "ProjectTaskMemoryDataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.DataAccess\\ProjectTaskMemoryDataProvider.cs",
+              "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.DataAccess\\ProjectTaskMemoryDataProvider.cs",
+              "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.DataAccess\\ProjectTaskMemoryDataProvider.cs",
+              "RelativeToolTip": "HFT_26271_S10.ProjectManager.DataAccess\\ProjectTaskMemoryDataProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T11:59:27.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "IProjectDataProvider.cs",
               "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.DataAccess\\Interfaces\\IProjectDataProvider.cs",
               "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.DataAccess\\Interfaces\\IProjectDataProvider.cs",
@@ -320,13 +267,104 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Classes\\Project.cs",
+              "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.Models\\Classes\\Project.cs",
+              "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Classes\\Project.cs",
+              "RelativeToolTip": "HFT_26271_S10.ProjectManager.Models\\Classes\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T11:37:36.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectTask.cs",
+              "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Classes\\ProjectTask.cs",
+              "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.Models\\Classes\\ProjectTask.cs",
+              "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Classes\\ProjectTask.cs",
+              "RelativeToolTip": "HFT_26271_S10.ProjectManager.Models\\Classes\\ProjectTask.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T11:38:13.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProjectTaskExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Extensions\\ProjectTaskExtensions.cs",
+              "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.Models\\Extensions\\ProjectTaskExtensions.cs",
+              "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Extensions\\ProjectTaskExtensions.cs",
+              "RelativeToolTip": "HFT_26271_S10.ProjectManager.Models\\Extensions\\ProjectTaskExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:56:09.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskState.cs",
+              "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Enums\\TaskState.cs",
+              "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.Models\\Enums\\TaskState.cs",
+              "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Enums\\TaskState.cs",
+              "RelativeToolTip": "HFT_26271_S10.ProjectManager.Models\\Enums\\TaskState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T11:39:23.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReflectionFileExporter.cs",
+              "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.DataAccess\\Exporters\\ReflectionFileExporter.cs",
+              "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.DataAccess\\Exporters\\ReflectionFileExporter.cs",
+              "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.DataAccess\\Exporters\\ReflectionFileExporter.cs",
+              "RelativeToolTip": "HFT_26271_S10.ProjectManager.DataAccess\\Exporters\\ReflectionFileExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T11:15:38.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProjectTaskJsonDataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.DataAccess\\DataProviders\\ProjectTaskJsonDataProvider.cs",
+              "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.DataAccess\\DataProviders\\ProjectTaskJsonDataProvider.cs",
+              "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.DataAccess\\DataProviders\\ProjectTaskJsonDataProvider.cs",
+              "RelativeToolTip": "HFT_26271_S10.ProjectManager.DataAccess\\DataProviders\\ProjectTaskJsonDataProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:24:03.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "IProjectTaskDataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.DataAccess\\Interfaces\\IProjectTaskDataProvider.cs",
+              "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.DataAccess\\Interfaces\\IProjectTaskDataProvider.cs",
+              "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.DataAccess\\Interfaces\\IProjectTaskDataProvider.cs",
+              "RelativeToolTip": "HFT_26271_S10.ProjectManager.DataAccess\\Interfaces\\IProjectTaskDataProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T11:15:09.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "ProjectTaskService.cs",
               "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.BusinessLogic\\Services\\ProjectTaskService.cs",
               "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.BusinessLogic\\Services\\ProjectTaskService.cs",
               "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.BusinessLogic\\Services\\ProjectTaskService.cs",
               "RelativeToolTip": "HFT_26271_S10.ProjectManager.BusinessLogic\\Services\\ProjectTaskService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAiwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-05T11:18:31.754Z",
               "EditorCaption": ""
@@ -339,7 +377,7 @@
               "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.BusinessLogic\\Services\\TeamMemberService.cs",
               "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.BusinessLogic\\Services\\TeamMemberService.cs",
               "RelativeToolTip": "HFT_26271_S10.ProjectManager.BusinessLogic\\Services\\TeamMemberService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwBMAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwBMAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-05T11:18:46.379Z",
               "EditorCaption": ""
@@ -359,7 +397,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
+              "Title": "IProjectTaskService.cs",
+              "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.BusinessLogic\\Interfaces\\IProjectTaskService.cs",
+              "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.BusinessLogic\\Interfaces\\IProjectTaskService.cs",
+              "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.BusinessLogic\\Interfaces\\IProjectTaskService.cs",
+              "RelativeToolTip": "HFT_26271_S10.ProjectManager.BusinessLogic\\Interfaces\\IProjectTaskService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T11:28:35.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DisplayLabelAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Attributes\\DisplayLabelAttribute.cs",
+              "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.Models\\Attributes\\DisplayLabelAttribute.cs",
+              "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Attributes\\DisplayLabelAttribute.cs",
+              "RelativeToolTip": "HFT_26271_S10.ProjectManager.Models\\Attributes\\DisplayLabelAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T12:05:49.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProjectTaskFileHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Classes\\ProjectTaskFileHandler.cs",
+              "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.Models\\Classes\\ProjectTaskFileHandler.cs",
+              "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Classes\\ProjectTaskFileHandler.cs",
+              "RelativeToolTip": "HFT_26271_S10.ProjectManager.Models\\Classes\\ProjectTaskFileHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T11:38:48.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TeamMember.cs",
+              "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Classes\\TeamMember.cs",
+              "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.Models\\Classes\\TeamMember.cs",
+              "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Classes\\TeamMember.cs",
+              "RelativeToolTip": "HFT_26271_S10.ProjectManager.Models\\Classes\\TeamMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T11:39:02.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TaskStateChangedEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Classes\\TaskStateChangedEventArgs.cs",
+              "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.Models\\Classes\\TaskStateChangedEventArgs.cs",
+              "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Classes\\TaskStateChangedEventArgs.cs",
+              "RelativeToolTip": "HFT_26271_S10.ProjectManager.Models\\Classes\\TaskStateChangedEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T11:38:58.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TaskDueDateChangedEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Classes\\TaskDueDateChangedEventArgs.cs",
+              "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.Models\\Classes\\TaskDueDateChangedEventArgs.cs",
+              "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Classes\\TaskDueDateChangedEventArgs.cs",
+              "RelativeToolTip": "HFT_26271_S10.ProjectManager.Models\\Classes\\TaskDueDateChangedEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T11:38:53.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "HFT_26271_S10.ProjectManager.DataAccess.csproj",
               "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj",
               "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.DataAccess\\HFT_26271_S10.ProjectManager.DataAccess.csproj",
@@ -372,20 +488,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ProjectTaskExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Extensions\\ProjectTaskExtensions.cs",
-              "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.Models\\Extensions\\ProjectTaskExtensions.cs",
-              "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Extensions\\ProjectTaskExtensions.cs",
-              "RelativeToolTip": "HFT_26271_S10.ProjectManager.Models\\Extensions\\ProjectTaskExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 24,
+              "Title": "ITeamMemberDataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.DataAccess\\Interfaces\\ITeamMemberDataProvider.cs",
+              "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.DataAccess\\Interfaces\\ITeamMemberDataProvider.cs",
+              "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.DataAccess\\Interfaces\\ITeamMemberDataProvider.cs",
+              "RelativeToolTip": "HFT_26271_S10.ProjectManager.DataAccess\\Interfaces\\ITeamMemberDataProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T11:56:09.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-12T11:41:19.912Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.DataAccess\\Class1.cs",
+              "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.DataAccess\\Class1.cs",
+              "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.DataAccess\\Class1.cs",
+              "RelativeToolTip": "HFT_26271_S10.ProjectManager.DataAccess\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:08:57.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "TaskStateCountDto.cs",
               "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\DTOs\\TaskStateCountDto.cs",
               "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.Models\\DTOs\\TaskStateCountDto.cs",
@@ -393,12 +520,11 @@
               "RelativeToolTip": "HFT_26271_S10.ProjectManager.Models\\DTOs\\TaskStateCountDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T11:55:45.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-05T11:55:45.45Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 27,
               "Title": "ProjectTaskCountDto.cs",
               "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\DTOs\\ProjectTaskCountDto.cs",
               "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.Models\\DTOs\\ProjectTaskCountDto.cs",
@@ -406,12 +532,11 @@
               "RelativeToolTip": "HFT_26271_S10.ProjectManager.Models\\DTOs\\ProjectTaskCountDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T11:55:39.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-05T11:55:39.156Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 28,
               "Title": "ProjectStatisticsDto.cs",
               "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\DTOs\\ProjectStatisticsDto.cs",
               "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.Models\\DTOs\\ProjectStatisticsDto.cs",
@@ -419,12 +544,11 @@
               "RelativeToolTip": "HFT_26271_S10.ProjectManager.Models\\DTOs\\ProjectStatisticsDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T11:55:27.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-05T11:55:27.683Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 29,
               "Title": "PriotityStatisticsDto.cs",
               "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\DTOs\\PriotityStatisticsDto.cs",
               "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.Models\\DTOs\\PriotityStatisticsDto.cs",
@@ -432,12 +556,11 @@
               "RelativeToolTip": "HFT_26271_S10.ProjectManager.Models\\DTOs\\PriotityStatisticsDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T11:55:19.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-05T11:55:19.471Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 30,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.BusinessLogic\\Class1.cs",
               "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.BusinessLogic\\Class1.cs",
@@ -449,91 +572,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "DisplayLabelAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Attributes\\DisplayLabelAttribute.cs",
-              "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.Models\\Attributes\\DisplayLabelAttribute.cs",
-              "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Attributes\\DisplayLabelAttribute.cs",
-              "RelativeToolTip": "HFT_26271_S10.ProjectManager.Models\\Attributes\\DisplayLabelAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T12:05:49.93Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Project.cs",
-              "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Classes\\Project.cs",
-              "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.Models\\Classes\\Project.cs",
-              "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Classes\\Project.cs",
-              "RelativeToolTip": "HFT_26271_S10.ProjectManager.Models\\Classes\\Project.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T11:37:36.948Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ProjectTask.cs",
-              "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Classes\\ProjectTask.cs",
-              "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.Models\\Classes\\ProjectTask.cs",
-              "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Classes\\ProjectTask.cs",
-              "RelativeToolTip": "HFT_26271_S10.ProjectManager.Models\\Classes\\ProjectTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T11:38:13.214Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ProjectTaskFileHandler.cs",
-              "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Classes\\ProjectTaskFileHandler.cs",
-              "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.Models\\Classes\\ProjectTaskFileHandler.cs",
-              "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Classes\\ProjectTaskFileHandler.cs",
-              "RelativeToolTip": "HFT_26271_S10.ProjectManager.Models\\Classes\\ProjectTaskFileHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T11:38:48.406Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "TaskDueDateChangedEventArgs.cs",
-              "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Classes\\TaskDueDateChangedEventArgs.cs",
-              "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.Models\\Classes\\TaskDueDateChangedEventArgs.cs",
-              "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Classes\\TaskDueDateChangedEventArgs.cs",
-              "RelativeToolTip": "HFT_26271_S10.ProjectManager.Models\\Classes\\TaskDueDateChangedEventArgs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T11:38:53.789Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "TaskStateChangedEventArgs.cs",
-              "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Classes\\TaskStateChangedEventArgs.cs",
-              "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.Models\\Classes\\TaskStateChangedEventArgs.cs",
-              "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Classes\\TaskStateChangedEventArgs.cs",
-              "RelativeToolTip": "HFT_26271_S10.ProjectManager.Models\\Classes\\TaskStateChangedEventArgs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T11:38:58.481Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "TeamMember.cs",
-              "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Classes\\TeamMember.cs",
-              "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.Models\\Classes\\TeamMember.cs",
-              "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Classes\\TeamMember.cs",
-              "RelativeToolTip": "HFT_26271_S10.ProjectManager.Models\\Classes\\TeamMember.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T11:39:02.614Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "ProjectStatus.cs",
               "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Enums\\ProjectStatus.cs",
               "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.Models\\Enums\\ProjectStatus.cs",
@@ -545,7 +584,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "TaskPriority.cs",
               "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Enums\\TaskPriority.cs",
               "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.Models\\Enums\\TaskPriority.cs",
@@ -557,19 +596,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "TaskState.cs",
-              "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Enums\\TaskState.cs",
-              "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.Models\\Enums\\TaskState.cs",
-              "ToolTip": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Enums\\TaskState.cs",
-              "RelativeToolTip": "HFT_26271_S10.ProjectManager.Models\\Enums\\TaskState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T11:39:23.882Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "TeamMemberRole.cs",
               "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Enums\\TeamMemberRole.cs",
               "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.Models\\Enums\\TeamMemberRole.cs",
@@ -581,7 +608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "HFT_26271_S10.ProjectManager.Presentation.csproj",
               "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Presentation\\HFT_26271_S10.ProjectManager.Presentation.csproj",
               "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.Presentation\\HFT_26271_S10.ProjectManager.Presentation.csproj",
@@ -593,7 +620,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "HFT_26271_S10.ProjectManager.BusinessLogic.csproj",
               "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.BusinessLogic\\HFT_26271_S10.ProjectManager.BusinessLogic.csproj",
               "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.BusinessLogic\\HFT_26271_S10.ProjectManager.BusinessLogic.csproj",
@@ -605,7 +632,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\hallgato\\source\\repos\\AttilaKorsos\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager\\HFT_26271_S10.ProjectManager.Models\\Class1.cs",
               "RelativeDocumentMoniker": "HFT_26271_S10.ProjectManager.Models\\Class1.cs",
@@ -614,14 +641,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-28T11:31:11.434Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             }
           ]
         }

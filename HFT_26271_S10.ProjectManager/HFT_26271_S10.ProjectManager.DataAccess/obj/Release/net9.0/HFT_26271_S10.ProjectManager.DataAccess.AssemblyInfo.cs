@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HFT_26271_S10.ProjectManager.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb810f66093b2c8aef97ab984f20e40ae7d68ed0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d53908d69137f69354d96473567478d55786f90f")]
 [assembly: System.Reflection.AssemblyProductAttribute("HFT_26271_S10.ProjectManager.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HFT_26271_S10.ProjectManager.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

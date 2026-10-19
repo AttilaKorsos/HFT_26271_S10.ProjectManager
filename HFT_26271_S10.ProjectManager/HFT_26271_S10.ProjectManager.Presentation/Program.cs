@@ -8,6 +8,8 @@ using System.Reflection;
 using HFT_26271_S10.ProjectManager.Models.Attributes;
 using HFT_26271_S10.ProjectManager.DataAccess.Interfaces;
 using HFT_26271_S10.ProjectManager.BusinessLogic.Interfaces;
+using HFT_26271_S10.ProjectManager.DataAccess.Exporters;
+using System.Collections.Concurrent;
 
 namespace HFT_26271_T00.ProjectManager.Presentation
 {
@@ -202,7 +204,7 @@ namespace HFT_26271_T00.ProjectManager.Presentation
             }
 
 
-            ProjectTask T4 = new ProjectTask(4, 9, "Task 1", "Description 1", DateTime.Now, TaskPriority.High, TaskState.NotStarted);
+            ProjectTask T4 = new ProjectTask(4, 9, "Task 1", "Description 1", DateTime.Now, TaskPriority.High, TaskState.InProgress);
             Type type = typeof(ProjectTask);
             Console.WriteLine();
             Console.WriteLine($"Name of Type: {type.Name}");
@@ -211,7 +213,7 @@ namespace HFT_26271_T00.ProjectManager.Presentation
             Console.WriteLine();
 
             PropertyInfo[] props = type.GetProperties();
-            foreach (PropertyInfo prop in props)
+            /*foreach (PropertyInfo prop in props)
             {
                 Console.Write($"{prop.Name} ({prop.PropertyType.Name}) - ");
 
@@ -221,7 +223,8 @@ namespace HFT_26271_T00.ProjectManager.Presentation
                     Console.WriteLine($"{attr.Label}");
                 }
             }
-
+            */
+            Console.WriteLine("Reflexió");
             foreach (PropertyInfo prop in props)
             {
                 DisplayLabelAttribute? attr = prop.GetCustomAttribute<DisplayLabelAttribute>();
@@ -230,13 +233,14 @@ namespace HFT_26271_T00.ProjectManager.Presentation
                     Console.WriteLine($"{attr.Label}: {prop.GetValue(T4)}");
                 }
             }
-
+            Console.WriteLine();
             Console.WriteLine("Dependency Injection");
             IProjectTaskDataProvider Dataprovider = new ProjectTaskJsonDataProvider();
             IProjectTaskService projectTaskService = new ProjectTaskService(dataProvider);
 
             var highOrCriticalTask2 = projectTaskService.GetHighOrCriticalPriorityTasks();
             highOrCriticalTask2.ForEach(task => Console.WriteLine(task));
+
 
 
             Console.ReadKey();
